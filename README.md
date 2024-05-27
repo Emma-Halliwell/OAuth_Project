@@ -8,7 +8,7 @@ A challenge that I found was getting the ight syntax in order for the project to
 
 ## How to Install/Run the project
 
-In order to use the project, first you will need to fork the repository. Once you have forked the repository the project will show up in you Github repostories. Then you can clone the repository to your local repository. From there you will need to open a terminal and navigate to the files location. You will then  need to run the command npm install. This will install the dependencies that you need to run the project. Once this is complete, there are a few extra steps that need to be completed in order to use the project. These step will be set out in the bullet points below.
+In order to use the project, first you will need to fork the repository. Once you have forked the repository the project will show up in you Github repositories. Then you can clone the repository to your local repository. From there you will need to open a terminal and navigate to the files location. You will then  need to run the command npm install. This will install the dependencies that you need to run the project. Once this is complete, there are a few extra steps that need to be completed in order to use the project. These step will be set out in the bullet points below.
 
 - Navigate back to your GitHub Homepage
 - Click on your icon in the top right hand corner
